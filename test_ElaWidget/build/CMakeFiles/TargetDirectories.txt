@@ -1,0 +1,5 @@
+/home/sky/workspace/cpp_qt/test_ElaWidget/build/CMakeFiles/test.out.dir
+/home/sky/workspace/cpp_qt/test_ElaWidget/build/CMakeFiles/edit_cache.dir
+/home/sky/workspace/cpp_qt/test_ElaWidget/build/CMakeFiles/rebuild_cache.dir
+/home/sky/workspace/cpp_qt/test_ElaWidget/build/CMakeFiles/test.out_autogen_timestamp_deps.dir
+/home/sky/workspace/cpp_qt/test_ElaWidget/build/CMakeFiles/test.out_autogen.dir

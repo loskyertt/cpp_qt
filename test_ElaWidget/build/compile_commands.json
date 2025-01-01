@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/sky/workspace/cpp_qt/test_ElaWidget/build",
+  "command": "/usr/sbin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/sky/workspace/cpp_qt/test_ElaWidget/build/test.out_autogen/include -I/home/sky/workspace/cpp_qt/test_ElaWidget/include -I/home/sky/workspace/cpp_qt/test_ElaWidget/build -I/opt/ElaWidgetTools/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++17 -fno-direct-access-external-data -o CMakeFiles/test.out.dir/test.out_autogen/mocs_compilation.cpp.o -c /home/sky/workspace/cpp_qt/test_ElaWidget/build/test.out_autogen/mocs_compilation.cpp",
+  "file": "/home/sky/workspace/cpp_qt/test_ElaWidget/build/test.out_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/test.out.dir/test.out_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/sky/workspace/cpp_qt/test_ElaWidget/build",
+  "command": "/usr/sbin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/sky/workspace/cpp_qt/test_ElaWidget/build/test.out_autogen/include -I/home/sky/workspace/cpp_qt/test_ElaWidget/include -I/home/sky/workspace/cpp_qt/test_ElaWidget/build -I/opt/ElaWidgetTools/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++17 -fno-direct-access-external-data -o CMakeFiles/test.out.dir/main.cpp.o -c /home/sky/workspace/cpp_qt/test_ElaWidget/main.cpp",
+  "file": "/home/sky/workspace/cpp_qt/test_ElaWidget/main.cpp",
+  "output": "CMakeFiles/test.out.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sky/workspace/cpp_qt/test_ElaWidget/build",
+  "command": "/usr/sbin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/sky/workspace/cpp_qt/test_ElaWidget/build/test.out_autogen/include -I/home/sky/workspace/cpp_qt/test_ElaWidget/include -I/home/sky/workspace/cpp_qt/test_ElaWidget/build -I/opt/ElaWidgetTools/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -g -std=gnu++17 -fno-direct-access-external-data -o CMakeFiles/test.out.dir/src/mainwindow.cpp.o -c /home/sky/workspace/cpp_qt/test_ElaWidget/src/mainwindow.cpp",
+  "file": "/home/sky/workspace/cpp_qt/test_ElaWidget/src/mainwindow.cpp",
+  "output": "CMakeFiles/test.out.dir/src/mainwindow.cpp.o"
+}
+]
