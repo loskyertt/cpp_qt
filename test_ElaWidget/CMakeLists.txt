@@ -118,12 +118,13 @@ target_include_directories(test.out PUBLIC
     # ExamplePage
     # ModelView
 )
+# target_link_directories(test.out PUBLIC
+#     ${ELAWIDGETTOOLS_LIBRARY_DIRS}
+# )
 target_link_libraries(test.out PRIVATE
     # ElaWidgetTools
     ${ELAWIDGETTOOLS_LIBRARIES}
-)
-target_link_directories(test.out PUBLIC
-    ${ELAWIDGETTOOLS_LIBRARY_DIRS}
+    # ${ELAWIDGETTOOLS_LIBRARY_DIRS}/libElaWidgetTools.so
 )
 
 
